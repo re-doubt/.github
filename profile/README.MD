@@ -5,3 +5,6 @@ re:doubt is a powerful tool for TON blockchain research, complete with all the t
 
 ## Supporters
 Special thanks to the [TON Society](https://society.ton.org/) for their support and grant, without which the project would not be feasible.
+
+## Donations
+EQAesWswgxIJYUjlCGfXlAvTFYChPHWwFuDZgRU_661XYDqL
