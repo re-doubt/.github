@@ -15,6 +15,7 @@ re:doubt is a community-based security platform to prevent or mitigate smart con
 ## Web-site
 
 https://www.redoubt.online/
+
 https://app.redoubt.online/
 
 ## TONalytica
@@ -25,9 +26,18 @@ https://docs.redoubt.online/
 
 ## TONalytica sample dashboards:
 
-https://tonalytica.redoubt.online/dashboard/jettons-overview?p_interval=1%20month
-https://tonalytica.redoubt.online/dashboard/tonalytica-market-volumes-jettons-ton?p_interval=1%20month
-https://tonalytica.redoubt.online/dashboard/tonalytica-jettons-market-data?p_address=EQDetcmWrfHLPRPVh3LoFvwso0zsjFnpmmXTKWj7s1ycNgu2
+
+TVL Jettons: 
+https://tonalytica.redoubt.online/public/dashboards/5E4aiDqaH0zeaQYsXN3iiBYacUwMwD4PqDHE3Zif
+
+Market Volume Jettons:
+https://tonalytica.redoubt.online/public/dashboards/eJCqlqogu7VLIZhtuJzBUH8i7grZTp6McjHTmvhs
+
+Jetton <specific> Market Data:
+https://tonalytica.redoubt.online/public/dashboards/WqOjuKszV3pGWghPPQHddollRAgM0ykx54mNmYt9
+
+Jetton <specific> Market Data, simplest version:
+https://tonalytica.redoubt.online/public/dashboards/OMOgY1xvitXOQe9XI0m0YIb2unbBRcv6jH8ljVhu
 
 
 ## Donations
