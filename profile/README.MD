@@ -20,6 +20,10 @@ https://app.redoubt.online/
 
 https://api.redoubt.online/docs
 
+## ChartingView
+The synergy between TON DataFeed and TradingView's advanced real-time charts specifically for an audience of millions of traders.
+Live demo: https://chartingview.redoubt.online/ 
+
 ## TONalytica
 
 TONalytica is a data exploration and visualization tool that allows users to connect to various data sources based on TON blockchain data (Native TON, Jettons, NFTs, DEXes data, TVL etc..), query them using SQL, and create visualizations and dashboards. Technical documentation:
