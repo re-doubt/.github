@@ -14,11 +14,7 @@ re:doubt is a community-based security platform to prevent or mitigate smart con
 
 ## Web-site
 
-https://www.redoubt.online/
-
-https://app.redoubt.online/
-
-https://api.redoubt.online/docs
+https://beta.redoubt.online/
 
 ## ChartingView
 The synergy between TON DataFeed and TradingView's advanced real-time charts specifically for an audience of millions of traders.
@@ -48,6 +44,3 @@ https://tonalytica.redoubt.online/public/dashboards/WqOjuKszV3pGWghPPQHddollRAgM
 Jetton <specific> Market Data, simplest version:
 https://tonalytica.redoubt.online/public/dashboards/OMOgY1xvitXOQe9XI0m0YIb2unbBRcv6jH8ljVhu
 
-
-## Donations
-```EQAesWswgxIJYUjlCGfXlAvTFYChPHWwFuDZgRU_661XYDqL```
