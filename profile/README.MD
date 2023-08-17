@@ -18,7 +18,7 @@ https://beta.redoubt.online/
 
 ## Advanced charts from TradingView 
 The synergy between **TON DataFeed** and TradingView's advanced real-time charts specifically for an audience of millions of traders.
-Disclaimer: Not for resale. Please connect TradingView directly.
+**Disclaimer:** Not for resale. Please connect TradingView directly.
 
 ## TONalytica
 
