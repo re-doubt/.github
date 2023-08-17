@@ -16,9 +16,9 @@ re:doubt is a community-based security platform to prevent or mitigate smart con
 
 https://beta.redoubt.online/
 
-## ChartingView
-The synergy between TON DataFeed and TradingView's advanced real-time charts specifically for an audience of millions of traders.
-Live demo: https://chartingview.redoubt.online/ 
+## Advanced charts from TradingView 
+The synergy between **TON DataFeed** and TradingView's advanced real-time charts specifically for an audience of millions of traders.
+Disclaimer: Not for resale. Please connect TradingView directly.
 
 ## TONalytica
 
